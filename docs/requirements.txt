@@ -1,1 +1,1 @@
-bam-masterdata==0.14.0
+bam-masterdata==0.13.0
